@@ -14,7 +14,7 @@ Metodología que seguimos:
 
 ## Perfil
 
-Soy desarrollador en formación Full Stack.
+Soy desarrollador Full Stack.
 
 He estudiado:
 
